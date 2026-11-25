@@ -8,6 +8,7 @@
 
 **Status:** Experimental
 
+>This is the latest version of the model. To access its source code, simply open the folder corresponding to the latest model version.
 
 A small, locally run language model for experimenting with next-token text generation. This is an early prototype, not a production assistant; its quality has not been formally evaluated.
 
@@ -99,6 +100,6 @@ This version is suitable for local experiments with small language models and tr
 
 ## License
 
-© 2026 Camcookie AI Labs. Licensed under the [MIT License](LICENSE).
+© 2026 Camcookie AI Labs. Licensed under the [MIT License](0.0.1-Experimental/LICENSE).
 
 The training corpus includes public-domain works and conversational text; third-party material remains subject to its own rights and notices.
